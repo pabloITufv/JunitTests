@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ufv.dis.PruebaSimpleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-26T18:33:57" hostname="MacBook-Pro-de-TanusP.local" time="0.021">
+  <properties/>
+  <testcase name="prueba1()" classname="com.ufv.dis.PruebaSimpleTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
