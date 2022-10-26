@@ -14,5 +14,6 @@ class PruebaSimpleTest {
         //Si a es mayor que B me tiene que devolver TRUE que es la primera opción
         assertEquals(true, miPrueba.prueba1(1000,2));
         assertEquals(true, miPrueba.prueba1('2',1));
+        
     }
 }
